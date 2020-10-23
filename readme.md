@@ -23,3 +23,5 @@ Attribute Information:
 mpg: continuous cylinders: multi-valued discrete displacement: continuous horsepower: continuous weight: continuous acceleration: continuous model year: multi-valued discrete origin: multi-valued discrete car name: string (unique for each instance) Missing Attribute Values: horsepower has 6 missing values
 
 Acknowledgements Dataset: UCI Machine Learning Repository Data link : https://archive.ics.uci.edu/ml/datasets/auto+mpg
+
+Leave a star if you liked the project :)
